@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm a backend developer in training, from Thailand.  
-<br>backend developer who loves building clean, efficient, and scalable systems
+<br>loves building clean, efficient, and scalable systems
 <br>using Golang. I’m currently focusingon building high-performance API servers, reducing cloud costs,
 <br>and integrating AI agents for automation. </p>
 
