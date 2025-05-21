@@ -15,6 +15,15 @@
 
 <p align="left">📚 Currently learning Agent AI, A2A communication, MCP, and LLM orchestration  <br>🎯 Goals: Become a full-stack backend developer with strong infrastructure & AI workflow <br><br>## ⚙️ Tools & Concepts<br>- GitHub Copilot / ChatGPT (planning, debugging, and writing clean code)  <br>- Grafana + Loki + Promtail (observability and log monitoring)  <br>- Redis (caching, pub/sub, task queue)  <br>- API Design | Clean Architecture | LLM Orchestration | Agent-to-Agent (A2A) | Model Context Protocol (MCP)</p>
 
+🧠 About me
+
+- 🧱 Strong focus on backend systems, clean code, and cloud cost optimization  
+- 🔍 Building systems with observability using Grafana, Loki, Promtail  
+- ⚡ Enhancing API performance using Redis caching & pub/sub  
+- 🧠 Interested in designing AI agent behaviors with modular memory and goal-based workflows  
+- 💬 Favorite tool: ChatGPT — used wisely, never blindly
+
+
 ###
 
 <div align="left">
