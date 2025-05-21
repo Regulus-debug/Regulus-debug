@@ -12,13 +12,14 @@
 
 ###
 <h2 align="left">About me</h2>
+<p>
 🧠 About me
 - 🧱 Strong focus on backend systems, clean code, and cloud cost optimization  
 - 🔍 Building systems with observability using Grafana, Loki, Promtail  
 - ⚡ Enhancing API performance using Redis caching & pub/sub  
 - 🧠 Interested in designing AI agent behaviors with modular memory and goal-based workflows  
 - 💬 Favorite tool: ChatGPT — used wisely, never blindly
-
+</p>
 ###
 
 <div align="left">
