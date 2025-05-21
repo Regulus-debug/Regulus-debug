@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm a backend developer in training, from Thailand.  <br>I love building efficient APIs and learning how to make systems that scale, log, cache</p>
+<p align="left">I'm a backend developer in training, from Thailand.  
+<br>I'm a backend developer who loves building clean, efficient, 
+<br>and scalable systems using Golang.  I’m currently focusing
+<br>on building high-performance API servers, reducing cloud costs,
+<br>and integrating AI agents for automation. </p>
 
 ###
 
