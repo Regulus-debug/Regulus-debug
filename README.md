@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a backend developer in training, from Thailand.  <br>I love building efficient APIs and learning how to make systems that scale, log, cache, and think like humans 🤖</p>
+<p align="left">I'm a backend developer in training, from Thailand.  <br>I love building efficient APIs and learning how to make systems that scale, log, cache</p>
 
 ###
 
