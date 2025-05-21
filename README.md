@@ -4,8 +4,8 @@
 
 <p align="left">I'm a backend developer in training, from Thailand.  
 <br>loves building clean, efficient, and scalable systems
-<br>using Golang. I’m currently focusingon building high-performance API servers, reducing cloud costs,
-<br>and integrating AI agents for automation. </p>
+<br>using Golang. I’m currently focusingon building high-performance API servers
+<br>reducing cloud costs, and integrating AI agents for automation. </p>
 
 ###
 
@@ -20,6 +20,7 @@
 <br>- ⚡ Enhancing API performance using Redis caching & pub/sub  
 <br>- 🧠 Interested in designing AI agent behaviors with modular memory and goal-based workflows  
 <br>- 💬 Favorite tool: ChatGPT — used wisely, never blindly
+<br>- 🤖 API Design | Clean Architecture | LLM Orchestration | Agent-to-Agent (A2A) | Model Context Protocol (MCP)
 </p>
 
 ###
